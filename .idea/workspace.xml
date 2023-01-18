@@ -5,31 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="834d3c4c-2abc-4b4d-b60d-c673d660f948" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Menu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Space_Rath.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Space_Rath.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BetaMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/BetaMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstantState.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossbowComstant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossbowPull_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossbowPull_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrbofMana_Fixed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OriginOrbWeppon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alagard.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enemy_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enemy_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oixhape35id31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixil-frame-0 (1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixil-frame-0 (2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixil-frame-0 (3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixil-frame-0 (4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +53,10 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\amias\OneDrive\Documents\Robotics\GitHub\Space_Rath\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (Space_Rath)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BetaMain.py" />
@@ -153,9 +132,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.BetaMain" />
       <item itemvalue="Python.Bullets" />
       <item itemvalue="Python.EnemySlime" />
-      <item itemvalue="Python.BetaMain" />
       <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
